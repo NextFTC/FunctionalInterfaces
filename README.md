@@ -2,6 +2,8 @@
 
 A library that provides two functional interfaces: `Action` and `Configurator`.
 
+Dokka: <https://javadoc.io/doc/dev.nextftc/functional-interfaces>
+
 ## Installation
 
 You will most likely not need to install this library, unless you are a library developer. If you need to install it, do this:
